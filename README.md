@@ -1,0 +1,2 @@
+# Graph_conversion-
+Given a representation of graph convert it into other forms. The different form of representing graphs are adjacency matrix, adjacency list , Incident matrix. Our task is to convert: 1. Adjacency matrix to adjacency list 2.Adjacency matrix to Incidence matrix 3. Adjacency list to adjacency matrix 4. Adjacency list to incidence matrix 5. Incidence matrix to adjacency matrix 6. Incidence matrix to adjacency list
